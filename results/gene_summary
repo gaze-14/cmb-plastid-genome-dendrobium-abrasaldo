@@ -1,1 +1,6 @@
-
+Feature : Count
+Gene features : 129
+CDS features : 76
+tRNA features : 38
+rRNA features : 8
+Pseudogene entries : 7
