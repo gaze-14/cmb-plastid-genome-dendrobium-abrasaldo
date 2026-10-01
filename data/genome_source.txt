@@ -1,1 +1,7 @@
-
+Organism: Dendrobium officinale
+Family: Orchidaceae
+Genome type: Chloroplast
+NCBI Accession/Version: NC_024019.1
+Genome size: 152,221 bp
+Topology: Circular
+Source database: NCBI RefSeq
