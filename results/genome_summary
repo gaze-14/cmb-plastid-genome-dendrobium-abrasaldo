@@ -1,1 +1,17 @@
-
+Feature : Result
+Organism : Dendrobium officinale
+Accession : NC_024019.1
+Genome type : Chloroplast
+Genome length (bp) : 152221
+Sequence records : 1
+GC content (%) : 37.47
+N50 (bp) : 152221
+L50 : 1
+N90 (bp) : 152221
+L90 : 1
+Number of gaps : 0
+Minimum length (bp) : 152221
+Maximum length (bp) : 152221
+Mean length (bp) : 152221
+Median length (bp) : 152221
+Standard deviation : 0
