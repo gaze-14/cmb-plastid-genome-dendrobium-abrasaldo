@@ -41,7 +41,7 @@ The annotated GenBank file for *Dendrobium officinale* (NC_024019.1) was uploade
 
 The resulting OGDRAW map displays the organization of the *Dendrobium officinale* chloroplast genome.
 
-!![Plastid genome map](figures/Dendrobium_officinale_plastid_map.png)
+![Plastid genome map](figures/Dendrobium_officinale_plastid_map.PNG)
 
 ## Structural Features
 
