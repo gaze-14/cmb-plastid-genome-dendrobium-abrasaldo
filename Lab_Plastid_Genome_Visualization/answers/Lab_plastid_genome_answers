@@ -1,1 +1,41 @@
+## 1. Scientific name and accession
 
+The scientific name is *Dendrobium officinale*. Its plastid genome accession number is **NC_024019.1**.
+
+## 2. Total plastid genome length
+
+The total length of the plastid genome is **152,221 bp**.
+
+## 3. LSC, SSC, IRa, and IRb
+
+The plastid genome is organized into four major regions: the Large Single-Copy (LSC) region, Small Single-Copy (SSC) region, and two inverted repeat regions, IRa and IRb.
+
+On the OGDRAW map, the LSC is the largest region, the SSC is the smaller single-copy region, and IRa and IRb are the two inverted repeat regions.
+
+## 4. Three genes in the LSC
+
+Three examples are **psbA, matK, and rps16**.
+
+## 5. One gene in the SSC
+
+One example is **rpl32**.
+
+## 6. One gene in the IR
+
+An example is **rrn5**. Because the inverted repeat regions are duplicated, the gene occurs in both IR regions.
+
+## 7. Photosynthesis-related gene
+
+The **psbA** gene is related to photosynthesis. It encodes the photosystem II protein D1, which is a component of photosystem II.
+
+## 8. Direction of transcription
+
+The arrows on the map show the direction in which genes are transcribed. Genes with arrows pointing in different directions are transcribed in different directions.
+
+## 9. GC content
+
+The GC content does not appear completely uniform across the genome. The GC-content graph shows variation across different regions of the plastid genome.
+
+## 10. Importance of the graphical map
+
+A graphical plastid genome map makes the genome easier to understand at a glance. It shows the LSC, SSC, IRa, and IRb regions, gene locations, gene directions, and other features together. This is easier to interpret than a raw DNA sequence or a long list of annotations.
