@@ -44,15 +44,17 @@ The two IR regions contain duplicated portions of the genome. The rRNA genes are
 
 Luo et al. (2014) reported that the *D. officinale* chloroplast genome contained **110 different genes**, with 91 single-copy genes and 19 duplicated genes. The authors also found that the gene content was relatively conserved compared with other photosynthetic orchids.
 
-## 6. RNA and RNA-Processing Features
+## 6. Important RNA and RNA-Processing Features
 
-The *D. officinale* chloroplast genome contains rRNA and tRNA genes that contribute to gene expression and protein synthesis. Luo et al. (2014) reported **4 rRNA genes** and **30 tRNA genes** in the chloroplast genome.
+The *Dendrobium officinale* chloroplast genome contains rRNA and tRNA genes involved in gene expression and protein synthesis. Luo et al. (2014) reported 4 rRNA genes and 30 tRNA genes in the chloroplast genome.
 
-Examples of annotated RNA genes include **rrn5**, **rrn4.5**, **rrn16**, and **rrn23**. Examples of tRNA genes include **trnK-UUU** and **trnQ-UUG**.
+Examples of annotated rRNA genes include **rrn5, rrn4.5, rrn16, and rrn23**. Examples of tRNA genes include **trnK-UUU** and **trnQ-UUG**.
 
-RNA processing is also represented by features such as the **trnK intron**, which contains the **matK** gene. The NCBI annotation also identifies trans-splicing associated with **rps12**.
+RNA processing is also represented by the **trnK intron**, which contains the **matK** gene. The NCBI annotation also identifies trans-splicing associated with **rps12**.
 
-Luo et al. (2014) reported RNA-editing sites in chloroplast genes. In *D. officinale*, RNA editing was identified in several genes, including an RNA-editing event involving the initiation codon of **rpl2**.
+The NCBI annotation also shows intron-containing genes such as **atpF** and **ycf3**, whose coding sequences are annotated as joined regions.
+
+Luo et al. (2014) also reported RNA-editing sites in chloroplast genes, including an RNA-editing event involving the initiation codon of **rpl2**.
 
 ## 7. Pseudogenes, Duplications, and Other Unusual Features
 
